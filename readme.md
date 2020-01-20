@@ -4,9 +4,13 @@ Voiced+Created+Configured+Designed+Illustrated by celestrai
 ## USAGE INFO
 
 Language: English
+
 Phoneme Set/Aliasing: VCCV English (-a, a k, ka)
+
 Recording List Author/Standard: Cz
+
 Recommended UTAU resampler: Moresampler 
+
 Recommended UTAU flags: Mo10Mb20
 
 ## CHARACTER INFO
